@@ -2,5 +2,14 @@
     color: yellowgreen;
     font-size: large;
 }
+.btn{
+    color: blue;
+    font-size: medium;
+
+}
+.cancel{
+    color: red;
+    font-size: medium;
+}
 
 
