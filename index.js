@@ -1,0 +1,1 @@
+console.log('Hello and welcome to Javascript, Today is a beautiful day!');
